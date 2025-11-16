@@ -1,0 +1,21 @@
+{
+  "city_ACC": "Город",
+  "city_DAT": "Городу",
+  "city_GEN": "Города",
+  "city_INST": "Городом",
+  "city_PREP": "Городе",
+  "city_tt_LR": "city",
+  "rural_settlement_ACC": "Селение",
+  "rural_settlement_DAT": "Селению",
+  "rural_settlement_GEN": "Селения",
+  "rural_settlement_INST": "Селением",
+  "rural_settlement_PREP": "Селении",
+  "rural_settlement_tt_LR": "rural_settlement",
+  "socialvalue_RU_GEN": "[AddTextIf(EqualTo_string('Крепостничество', ShowSocietyDirectionName('free_subjects')), 'крепостничества')]",
+  "town_ACC": "Городок",
+  "town_DAT": "Городку",
+  "town_GEN": "Городка",
+  "town_INST": "Городком",
+  "town_PREP": "Городке",
+  "town_tt_LR": "town"
+}
