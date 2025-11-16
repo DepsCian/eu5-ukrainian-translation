@@ -1,0 +1,12 @@
+﻿{
+	"name":	"Ukrainian Translation",
+	"id":	"ua-translation",
+	"version":	"1.0.0",
+	"supported_game_version":	"1.0.2",
+	"short_description":	"Community-driven Ukrainian translation for Europa Universalis V",
+	"tags":	["Translation"],
+	"relationships":	[],
+	"game_custom_data":	{
+		"multiplayer_synchronized" : true
+	}
+}
