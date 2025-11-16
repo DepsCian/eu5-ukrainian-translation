@@ -1,0 +1,9 @@
+{
+  "flavor_ned_plc.1.a": "[ROOT.GetCountry.Custom('common_string_positive')]",
+  "flavor_ned_plc.1.desc": "[receiving_country.GetLongName] та\n[target_country.GetLongName] мають низку спільних інтересів. Щороку тамтешні [target_country.GetGovernment.GetEstateName('burghers_estate')|l] прибувають до\nнаших портів. Основний інтерес для них становить [target_market.GetName|l], особливо\n— [target_good.GetName] у\n#L [target_location.GetAdjective|l]ому#! пакгаузі. Втім, [receiving_country.GetAdjectiveWithNoTooltip|l]і [receiving_country.GetGovernment.GetEstateName('nobles_estate')|l] теж отримують вигоду від такої співпраці: [target_good.GetNameWithNoTooltip]\n— цінність для закордонних купців, і\nїм можна продавати надлишки продукції, натомість отримуючи рідкісні товари.",
+  "flavor_ned_plc.1.title": "[target_location.GetNameWithNoTooltip] та\n[target_country.GetAdjectiveWithNoTooltip]i купці",
+  "flavor_ned_plc.2.a": "Ми вкладемо кошти в\nоптову торгівлю.",
+  "flavor_ned_plc.2.b": "[ROOT.GetCountry.Custom('common_string_positive')]",
+  "flavor_ned_plc.2.desc": "$flavor_ned_plc.1.desc$",
+  "flavor_ned_plc.2.title": "$flavor_ned_plc.1.title$"
+}

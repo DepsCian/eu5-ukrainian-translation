@@ -1,0 +1,13 @@
+{
+  "CONTINUE_PAST_END_DATE": "Продовжити гру",
+  "CONTINUE_PAST_END_DATE_TOOLTIP": "Ви можете продовжити гру.\nУсі досягнення будуть відключені.",
+  "END_GAME_VIEW_GREAT_POWER_TITLE": "Велика держава",
+  "END_GAME_VIEW_GREAT_TEXT": "#ONCLICK:COUNTRY,[COUNTRY.Custom('CL_tt')] #TOOLTIP:COUNTRY,[COUNTRY.Custom('CL_tt')],X [COUNTRY.Custom('CL_GEN')|L]#!#! вдалося стати великою світовою державою. Це велике досягнення! Вона входить до числа найбагатших і найпрестижніших держав цієї епохи. Вітаємо, саме ваше правління привело її до процвітання.",
+  "END_GAME_VIEW_LOSING_TEXT": "Наша нація загинула і була віддана забуттю. Можливо, нам забракло сили і рішучості, на відміну від наших сусідів. Колись вчені будуть гадати, що стало причиною краху #ONCLICK:COUNTRY,[COUNTRY.Custom('CL_tt')] #TOOLTIP:COUNTRY,[COUNTRY.Custom('CL_tt')],X [COUNTRY.Custom('CL_RP')|L]#!#!, а про наше існування нагадуватимуть лише запилені музейні експонати.",
+  "END_GAME_VIEW_LOSING_TITLE": "Кінець гри",
+  "END_GAME_VIEW_OBSERVE": "Спостерігати",
+  "END_GAME_VIEW_OBSERVE_TOOLTIP": "Продовжуйте в режимі спостерігача.",
+  "END_GAME_VIEW_QUIT_TOOLTIP": "Закінчіть гру і поверніться до головного меню.",
+  "END_GAME_VIEW_SURVIVING_TEXT": "Наша горда нація пережила століття труднощів, воєн і незгод. На жаль, народ #ONCLICK:COUNTRY,[COUNTRY.Custom('CL_tt')] #TOOLTIP:COUNTRY,[COUNTRY.Custom('CL_tt')],X [COUNTRY.Custom('CL_RP')|L]#!#! так і не зміг похвалитися великими досягненнями. Ми лише пішаки у світі, де сильні гравці борються за землі та вплив.",
+  "END_GAME_VIEW_SURVIVING_TITLE": "Скромна роль в історії"
+}

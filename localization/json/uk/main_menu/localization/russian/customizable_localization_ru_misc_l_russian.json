@@ -1,0 +1,23 @@
+{
+  "FRA_RU_PREP_CL": "Франції",
+  "NOV_RU_PREP_CL": "Великому Новгороді",
+  "city_ACC": "Місто",
+  "city_DAT": "Місту",
+  "city_GEN": "Міста",
+  "city_INST": "Містом",
+  "city_PREP": "Місті",
+  "city_tt_LR": "місто",
+  "rural_settlement_ACC": "Селище",
+  "rural_settlement_DAT": "Селищу",
+  "rural_settlement_GEN": "Селища",
+  "rural_settlement_INST": "Селищем",
+  "rural_settlement_PREP": "Селищі",
+  "rural_settlement_tt_LR": "сільська місцевість",
+  "socialvalue_RU_GEN": "[AddTextIf(EqualTo_string('Кріпацтво', ShowSocietyDirectionName('free_subjects')), 'кріпацтва')]",
+  "town_ACC": "Містечко",
+  "town_DAT": "Містечку",
+  "town_GEN": "Містечка",
+  "town_INST": "Містечком",
+  "town_PREP": "Містечку",
+  "town_tt_LR": "містечко"
+}

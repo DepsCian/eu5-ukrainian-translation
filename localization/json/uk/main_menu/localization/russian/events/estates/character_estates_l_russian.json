@@ -1,0 +1,22 @@
+{
+  "character_estates.1.a": "Добробут окремих підданих — не наша турбота.",
+  "character_estates.1.b": "Ми повинні [Select_CString(target_character.IsFemale, 'її', 'його')] підтримати.",
+  "character_estates.1.desc": "Після серії невдалих інвестицій [target_character.GetName] [Select_CString(target_character.IsFemale, 'залишилася', 'залишився')] без грошей. Як [Select_CString(target_character.IsFemale, 'наша придворна', 'наш придворний')], [Select_CString(target_character.IsFemale, 'вона', 'він')] відчайдушно благає нас надати [Select_CString(target_character.IsFemale, 'їй', 'йому')] фінансову допомогу і допомогти знову стати на ноги, інакше [Select_CString(target_character.IsFemale, 'їй', 'йому')] доведеться доживати свої дні в злиднях.",
+  "character_estates.1.title": "[target_character.GetNameWithNoTooltip] позбавляється статусу",
+  "character_estates.2.a": "Підтримаємо [Select_CString(target_character.IsFemale, 'новоспечену аристократку', 'новоспеченого аристократа')].",
+  "character_estates.2.b": "Заберемо титул собі.",
+  "character_estates.2.desc": "Знатьний землевласник помер, не залишивши прямих спадкоємців. Наші глашатаї оголосили, що за [ROOT.GetCountry.GetAdjectiveWithNoTooltip]ими законами титул успадкує [target_character.GetName] — дуже [Select_CString(target_character.IsFemale, 'дальня родичка', 'дальній родич')] покійного.\n\nНезважаючи на кровну спорідненість, [target_character.GetName], очевидно, [Select_CString(target_character.IsFemale, 'негідна', 'негідний')] аристократичних привілеїв. Можливо, краще визнати, що цим титулом тепер володіють [ROOT.GetCountry.GetGovernment.GetEstateName('crown_estate')|l].",
+  "character_estates.2.title": "Малоймовірний спадкоємець",
+  "character_estates.3.a": "Надішлемо привітання.",
+  "character_estates.3.b": "Багаті селяни залишаються селянами.",
+  "character_estates.3.desc": "Завдяки вправній діловій хватці та зв'язкам, набутим при нашому дворі, [Select_CString(target_character.IsFemale, 'селянка', 'селянин')] на ім'я [target_character.GetName] [Select_CString(target_character.IsFemale, 'змогла', 'зміг')] накопичити значні статки. [Select_CString(target_character.IsFemale, 'Вона', 'Він')] не менш [Select_CString(target_character.IsFemale, 'багата', 'багатий')], ніж наші успішні [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')|l].\n\nБагато хто вже вважає [Select_CString(target_character.IsFemale, 'її', 'його')] частиною іншого стану, але чи варто нам це визнавати?",
+  "character_estates.3.title": "[Select_CString(target_character.IsFemale, 'Успішна селянка', 'Успішний селянин')]",
+  "character_estates.4.a": "Дозволимо [Select_CString(target_character.IsFemale, 'їй', 'йому')] вступити до ордену.",
+  "character_estates.4.b": "Цьому не бувати.",
+  "character_estates.4.desc": "Як і багато правовірних у пошуках духовної гармонії, [Select_CString(target_character.IsFemale, 'наша придворна дама', 'наш придворний')] [target_character.GetName] [Select_CString(target_character.IsFemale, 'вирішила', 'вирішив')] вступити до #L [ROOT.GetCountry.GetReligion.GetAdjective|l]ійського#! релігійного ордену.\n\nЗвісно, [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] будуть тільки раді, що до них приєднається особистість такого політичного масштабу, але ми можемо накласти заборону, якщо це не входить до наших планів.",
+  "character_estates.4.title": "Божественний поклик",
+  "character_estates.5.a": "Надамо [Select_CString(target_character.IsFemale, 'їй', 'йому')] титул.",
+  "character_estates.5.b": "Роздавати такі нагороди солдатам — це занадто легковажно.",
+  "character_estates.5.desc": "І аристократи, і простолюдини згодні, що [target_character.GetName] чудово [Select_CString(target_character.IsFemale, 'проявила', 'проявив')] себе на службі у загоні «[target_character.GetUnitPointer.GetName]». Дійшло до того, що [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')|l] хочуть здобути частину [Select_CString(target_character.IsFemale, 'її', 'його')] героїчної слави та радять нам надати [Select_CString(target_character.IsFemale, 'їй', 'йому')] найвищі аристократичні почесті.",
+  "character_estates.5.title": "Підвищення на військовій службі"
+}

@@ -1,3 +1,3 @@
 files:
-  - source: /localization/source/russian/**/*.yml
-    translation: /localization/%two_letters_code%/%original_path%/%original_file_name%
+  - source: /localization/json/source/russian/**/*.json
+    translation: /localization/json/%two_letters_code%/%original_path%/%original_file_name%

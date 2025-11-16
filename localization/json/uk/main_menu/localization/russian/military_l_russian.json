@@ -1,0 +1,23 @@
+{
+  "APPLY_MILITARY_STANCE_TO_ALL": "Обрати військову позицію для всіх наших ленників",
+  "FORT_FLIPPING_SLIPPING": "$FLIPPER$ знову починає втрачати провінцію @location!$PROV$. Прогрес: $PERCENT|Y%$.",
+  "HAS_FORTS_IN_LOC": "Рівень простих укріплень: $NUM|Y$.",
+  "HAS_NO_FORTS": "Не має [Concept('forts','фортець')|e] і не знаходиться в [Concept('zone_of_control','зоні контролю')|e].",
+  "HAS_PROP_FORTS_IN_LOC": "Рівень укріплень: $NUM|Y$. Поширює [Concept('zone_of_control','зону контролю')|e] на прилеглі [Concept('locations','райони')|e].",
+  "INFLUENCE_FORT_ENTRY": "Знаходиться в [Concept('zone_of_control','зоні контролю')|e] району [LOCATION.GetName].",
+  "aggressive_military_stance": "Агресія",
+  "aggressive_military_stance_desc": "[Concept('subject','Ленник')|e] буде використовувати агресивні військові тактики, облягаючи міста та переслідуючи ворожі війська навіть на їхній території.",
+  "aggressive_military_stance_desc_all": "Всі наші [Concept('subjects','ленники')|e] будуть використовувати агресивні військові тактики, облягаючи міста та переслідуючи ворожі війська навіть на їхній території.",
+  "defensive_military_stance": "Оборона",
+  "defensive_military_stance_desc": "[Concept('subject','Ленник')|e] буде використовувати оборонні військові тактики, вступаючи в битви лише в тому випадку, якщо ворог загрожує дружнім володінням.",
+  "defensive_military_stance_desc_all": "Всі наші [Concept('subjects','ленники')|e] будуть використовувати оборонні військові тактики, вступаючи в битви лише в тому випадку, якщо ворог загрожує дружнім володінням.",
+  "normal_military_stance": "Звичайна зима",
+  "normal_military_stance_desc": "[Concept('subject','Ленник')|e] буде в рівній мірі використовувати різні військові тактики.",
+  "normal_military_stance_desc_all": "Всі наші [Concept('subjects','ленники')|e] будуть в рівній мірі використовувати різні військові тактики.",
+  "passive_military_stance": "Бездіяльність",
+  "passive_military_stance_desc": "[Concept('subject','Ленник')|e] буде використовувати пасивні військові тактики, віддаючи перевагу блокадам та обороні дружніх володінь.",
+  "passive_military_stance_desc_all": "Всі наші [Concept('subjects','ленники')|e] будуть використовувати пасивні військові тактики, віддаючи перевагу блокадам та обороні дружніх володінь.",
+  "supportive_military_stance": "Підтримка",
+  "supportive_military_stance_desc": "[Concept('subject','Ленник')|e] буде використовувати військові тактики, спрямовані на підтримку наших військ.",
+  "supportive_military_stance_desc_all": "Всі наші [Concept('subjects','ленники')|e] будуть використовувати військові тактики, спрямовані на підтримку наших військ."
+}

@@ -1,0 +1,9 @@
+{
+  "flavor_ven_papal_interdicts.1000.a": "[ROOT.GetCountry.GetNameWithNoTooltip] — це [ROOT.GetCountry.GetNameWithNoTooltip]!",
+  "flavor_ven_papal_interdicts.1000.b": "Схилитися перед Святим Отцем",
+  "flavor_ven_papal_interdicts.1000.desc": "[GetCountry('PAP').GetGovernment.GetRulerTitle|U] накладає на #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_VP')|L]#!#! інтердикт — нібито через те, що релігійні фанатики в місті почуваються занадто вільно і цим саме ображають #ONCLICK:COUNTRY,[GetCountry('PAP').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('PAP').Custom('CL_tt')],X [GetCountry('PAP').Custom('CL_VP')|L]#!#!. Нам же очевидно, що цей інтердикт — просто виверт, що служить їхнім власним честолюбним задумом.",
+  "flavor_ven_papal_interdicts.1000.title": "[ROOT.GetCountry.GetAdjectiveWithNoTooltip]ський інтердикт",
+  "flavor_ven_papal_interdicts.1001.a": "[venice_target.GetNameWithNoTooltip] впаде подібно до Содому та Гоморри!",
+  "flavor_ven_papal_interdicts.1001.desc": "[target_sinner_country.GetName] — край нечестивців, навіки вкрили себе гріхом перед обличчям Господнім. У цьому місті торгашів і лавочників не залишилося жодного праведника — усі вони подібні до тих, кого син Божий вигнав з храму. Ми  — намісники Бога на землі, а тому не повинні сидіти склавши руки!",
+  "flavor_ven_papal_interdicts.1001.title": "Місто гріха"
+}
